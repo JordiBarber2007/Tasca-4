@@ -1,0 +1,1 @@
+SELECT * FROM MER4.Polissa;
